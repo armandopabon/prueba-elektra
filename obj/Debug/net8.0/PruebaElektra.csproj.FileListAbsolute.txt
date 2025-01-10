@@ -21,6 +21,7 @@ C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.GeneratedMSBuildEditorC
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.AssemblyInfoInputs.cache
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.AssemblyInfo.cs
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.csproj.CoreCompileInputs.cache
+C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.sourcelink.json
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.dll
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\refint\PruebaElektra.dll
 C:\Ejemplos\PruebaElektra\obj\Debug\net8.0\PruebaElektra.pdb
